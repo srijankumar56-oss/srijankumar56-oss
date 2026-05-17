@@ -27,12 +27,51 @@ Building analytics, AI-powered systems, and business-focused data products
 
 ---
 
-# 🚀 About Me
+# 👋 About Me
 
-* MBA candidate focused on analytics, AI applications, and decision systems
-* Interested in business intelligence, growth analytics, product strategy, and ML-driven decision-making
-* Building practical systems using Python, SQL, Power BI, and modern AI workflows
-* Experience across analytics internships, GTM strategy, dashboarding, and predictive modeling
+<ul>
+
+<li>
+🚀 <b>Currently Working On:</b><br>
+AI-powered analytics applications, automation workflows, dashboard systems, and business-focused ML projects.
+</li>
+
+<br>
+
+<li>
+📊 <b>Interested In:</b><br>
+Decision Science, Product Analytics, Business Intelligence, Predictive Modeling, and AI applications in business workflows.
+</li>
+
+<br>
+
+<li>
+🧠 <b>Currently Learning:</b><br>
+Advanced machine learning concepts, time-series forecasting, deployment workflows, and scalable AI systems.
+</li>
+
+<br>
+
+<li>
+🤝 <b>Open To Collaborate On:</b><br>
+Analytics projects, dashboarding systems, AI-powered business tools, and automation-based workflows.
+</li>
+
+<br>
+
+<li>
+💬 <b>Ask Me About:</b><br>
+Python, SQL, Power BI, EDA, predictive analytics, GTM analytics, and ML-driven business decision systems.
+</li>
+
+<br>
+
+<li>
+⚡ <b>Current Focus:</b><br>
+Building practical, business-oriented systems instead of theoretical or research-heavy AI projects.
+</li>
+
+</ul>
 
 ---
 
