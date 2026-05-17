@@ -7,23 +7,7 @@ Building analytics, AI-powered systems, and business-focused data products
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://linkedin.com/in/chitransh-kumar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:srijan.kumar1547@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Chitransh-Kumar">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
