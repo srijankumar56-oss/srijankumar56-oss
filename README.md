@@ -147,25 +147,40 @@ Building analytics, AI-powered systems, and business-focused data products
 
 # 🏆 Highlights
 
-<div align="center">
+<table align="center">
+<tr>
 
-### 🥈 Competitions
+<td align="center" width="50%">
 
-Runner-up — **Data Dash, IIM Shillong**
-Runner-up — **Data Odyssey, TAPMI**
-Finalist — **Data Sights 7.0, IIM Kashipur**
-Finalist — **Hult Prize**
+### Competitions
 
-<br>
+🥈 Runner-up — Data Dash, IIM Shillong <br><br>
 
-### 📜 Certifications
+🥈 Runner-up — Data Odyssey, TAPMI <br><br>
 
-Google Data Analytics Professional Certificate
-Microsoft Power BI Certification
-Lean Six Sigma Green Belt
-Time Series Analysis — IIT Guwahati
+🏅 Finalist — Data Sights 7.0, IIM Kashipur <br><br>
 
-</div>
+🏅 Finalist — Hult Prize
+
+</td>
+
+<td align="center" width="50%">
+
+### Certifications
+
+📊 Google Data Analytics <br><br>
+
+📈 Microsoft Power BI <br><br>
+
+⚙️ Lean Six Sigma Green Belt <br><br>
+
+📉 Time Series Analysis (IIT Guwahati)
+
+</td>
+
+</tr>
+</table>
+
 
 # Connect With Me
 
