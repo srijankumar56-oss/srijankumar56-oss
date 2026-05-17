@@ -1,16 +1,158 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Srijan 👋</h1>
 
-<!--
-**srijankumar56-oss/srijankumar56-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+MBA Candidate @ SDA Bocconi Asia Center <br>
+Building analytics, AI-powered systems, and business-focused data products
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/chitransh-kumar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:srijan.kumar1547@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Chitransh-Kumar">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 About Me
+
+* MBA candidate focused on analytics, AI applications, and decision systems
+* Interested in business intelligence, growth analytics, product strategy, and ML-driven decision-making
+* Building practical systems using Python, SQL, Power BI, and modern AI workflows
+* Experience across analytics internships, GTM strategy, dashboarding, and predictive modeling
+
+---
+
+# 🛠 Tech Stack
+
+## Programming & Data
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+---
+
+## Analytics & BI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data_Visualization-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KPI_Dashboarding-1E90FF?style=for-the-badge"/>
+
+</p>
+
+---
+
+## AI / Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Time_Series_Analysis-00599C?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Tools & Platforms
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge&logo=knime&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📌 Areas of Interest
+
+* Decision Science
+* Predictive Analytics
+* AI Applications in Business
+* Product & Growth Analytics
+* Business Intelligence
+* Automation Workflows
+* Strategy & Analytics
+
+---
+
+# 🏆 Highlights
+
+* Runner-up — Data Dash, IIM Shillong
+* Runner-up — Data Odyssey, TAPMI
+* Finalist — Data Sights 7.0, IIM Kashipur
+* Hult Prize College-Level Finalist
+* Google Data Analytics Certified
+* Microsoft Power BI Certified
+
+---
+
+# 📈 Current Focus
+
+* AI-powered analytics applications
+* Business-oriented ML systems
+* Automation workflows
+* Time-series forecasting
+* Data storytelling & dashboarding
+
+# Connect With Me
+
+<p align="center">
+  <a href="(https://www.linkedin.com/in/srijankeshri09)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:srijan.kumar1547@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="(https://github.com/srijankumar56-oss)">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/YOUR_ID">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
