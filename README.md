@@ -127,32 +127,52 @@ Building analytics, AI-powered systems, and business-focused data products
 </p>
 
 ---
-
-# 🏆 Highlights
+# 📈 Current Focus
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/IIM_Shillong-Runner--Up-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Powered_Analytics-412991?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/TAPMI-Runner--Up-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML_Decision_Systems-0A66C2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/IIM_Kashipur-Finalist-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation_Workflows-EA4B71?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Hult_Prize-Finalist-critical?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Time_Series_Forecasting-00599C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Google_Data_Analytics-Certified-4285F4?style=for-the-badge&logo=google"/>
-
-<img src="https://img.shields.io/badge/Microsoft_Power_BI-Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data_Storytelling_&_Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
 
-# 📈 Current Focus
+---
 
-* AI-powered analytics applications
-* Business-oriented ML systems
-* Automation workflows
-* Time-series forecasting
-* Data storytelling & dashboarding
+# 🏆 Highlights
+
+<table align="center">
+<tr>
+<td align="center">
+
+### Competitions
+
+🥈 Runner-up — Data Dash, IIM Shillong
+🥈 Runner-up — Data Odyssey, TAPMI
+🏅 Finalist — Data Sights 7.0, IIM Kashipur
+🏅 Finalist — Hult Prize
+
+</td>
+
+<td align="center">
+
+### Certifications
+
+📊 Google Data Analytics
+📈 Microsoft Power BI
+⚙️ Lean Six Sigma Green Belt
+📉 Time Series Analysis (IIT Guwahati)
+
+</td>
+</tr>
+</table>
+
 
 # Connect With Me
 
