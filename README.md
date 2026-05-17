@@ -108,26 +108,43 @@ Building analytics, AI-powered systems, and business-focused data products
 
 # 📌 Areas of Interest
 
-* Decision Science
-* Predictive Analytics
-* AI Applications in Business
-* Product & Growth Analytics
-* Business Intelligence
-* Automation Workflows
-* Strategy & Analytics
+<p align="center">
+
+<img src="https://img.shields.io/badge/Decision_Science-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Predictive_Analytics-1E90FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_in_Business-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Product_Analytics-FF6B00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Automation_Workflows-EA4B71?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Strategy_&_Analytics-0052CC?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 🏆 Highlights
 
-* Runner-up — Data Dash, IIM Shillong
-* Runner-up — Data Odyssey, TAPMI
-* Finalist — Data Sights 7.0, IIM Kashipur
-* Hult Prize College-Level Finalist
-* Google Data Analytics Certified
-* Microsoft Power BI Certified
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/IIM_Shillong-Runner--Up-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TAPMI-Runner--Up-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IIM_Kashipur-Finalist-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hult_Prize-Finalist-critical?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google_Data_Analytics-Certified-4285F4?style=for-the-badge&logo=google"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Power_BI-Certified-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
 
 # 📈 Current Focus
 
