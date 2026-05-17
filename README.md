@@ -5,12 +5,6 @@ MBA Candidate @ SDA Bocconi Asia Center <br>
 Building analytics, AI-powered systems, and business-focused data products
 </p>
 
----
-
-
-
----
-
 # 👋 About Me
 
 <ul>
